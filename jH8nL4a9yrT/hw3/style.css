@@ -73,6 +73,16 @@
     font-size: 12px;
     border-color: #111111;
   }
+  
+  #cuisines {
+    position: absolute;
+    left: 70px;
+    top:560px;
+    width: 700px;
+    height: 1000px;
+    border-color: #fffff;
+    border-width: 10px;
+  }
   #cuiSlogan {
     position: absolute;
     left: 70px;
@@ -82,24 +92,19 @@
     text-align: center;
     font-weight: bold;
     width: 700px;
-    height: 30px;
+    height: 50px;
     padding-left:100px;
+    padding-top:0;
   }
+  
   #cuiSlogan span{
     border-bottom:3px double  #780a7f;
-    
-  }
-  #cuisines {
-    position: absolute;
-    left: 70px;
-    top:560px;
-    width: 700px;
-    height: 1000px;
     
   }
   .type {
     width: 700px;
     height: 270px;
+    margin-top: 60px;
   }
   .pink {
     border-style: solid;
@@ -114,6 +119,8 @@
     border-color: #aed8e5;
     float: right;
     padding: 0;
+    width: 330px;
+    height: 250px;
   }
   
   #cuisines img {
@@ -121,8 +128,14 @@
     height: 250px;
   }
   
-  .MenuInfo {
+  .MenuInfoL {
     width: 350px;
     height: 270px;
+    float:left;
+  }
+  .MenuInfoR{
+    width: 350px;
+    height: 270px;
+    float:right;
   }
   
