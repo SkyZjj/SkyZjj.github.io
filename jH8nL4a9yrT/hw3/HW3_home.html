@@ -80,27 +80,6 @@
             font-size: 12px;
             border-color: #111111;
           }
-          .MenuInfo{
-            width: 350px;
-            height: 270px;  
-          }
-          
-          .pink{
-            border-style: solid;
-            border-width:10px;
-            border-color:#FFE4E2;
-          }
-          .blue{
-            border-style: solid;
-            border-width:10px;
-            border-color:#AED8E5;
-          }
-          
-          #cuisines img{
-            width: 330px;
-            height: 250px; 
-          }
-          
           #cuiSlogan{
             position:absolute;
 			left:300px;
@@ -109,9 +88,43 @@
           }
           #cuisines{
             position:absolute;
-			left:70px; 
+            left:70px; 
+            width:700px;
+			height:1000px;
+            border-color: #111111;
+            border-width:1px;
           }
-         
+		  .type{
+            width:700px;
+            height: 270px;
+			
+		  }
+          .pink{
+            border-style: solid;
+            border-width:10px;
+            border-color:#FFE4E2;
+            float:left;
+			  padding:0;
+          }
+          .blue{
+            border-style: solid;
+            border-width:10px;
+            border-color:#AED8E5;
+            float:right;
+			  padding:0;
+          }
+          
+          #cuisines img{
+            width: 330px;
+            height: 250px; 
+          }
+          
+          
+          .MenuInfo{
+            width: 350px;
+            height: 270px;  
+          }
+          
       </style>
     <!-- <script type="text/javascript" src="js文件的路径"></script> -->
     <script type="text/javascript">
@@ -169,7 +182,7 @@
             Explore Our Delicious Cuisines
         </div>
 
-        <div id="Italian">
+        <div id="Italian" class="type">
             <div id="ItalyImg" class="pink">
                 <img src="https://skyzjj.github.io/jH8nL4a9yrT/hw3/img/Italian Cuisine.jpg" >
             </div>
@@ -178,7 +191,7 @@
             </div>
         </div>
 
-        <div id="Indian">
+        <div id="Indian" class="type">
             <div id="IndiaIntro" class="MenuInfo">
 
             </div>
@@ -188,7 +201,7 @@
             </div>
         </div>
 
-        <div id="Japanese">
+        <div id="Japanese" class="type">
             <div id="JapaneseImg" class="pink">
                 <img src="https://skyzjj.github.io/jH8nL4a9yrT/hw3/img/Japanese Cuisine.jpg" >
 
@@ -198,7 +211,7 @@
             </div>
         </div>
 
-        <div id="Desserts">
+        <div id="Desserts" class="type">
             <div id="DessertsIntro" class="MenuInfo">
 
             </div>
