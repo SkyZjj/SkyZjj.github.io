@@ -28,11 +28,11 @@
     float: left;
     text-align: center;
     padding-top: 7px;
-    margin-left: 11px;
+    margin-left: 9px;
   }
   #viewWindow {
     margin-left: 70px;
-    margin-top: 30px;
+    margin-top: 130px;
     width: 700px;
     height: 400px;
     background-image:url('https://skyzjj.github.io/jH8nL4a9yrT/hw3/img/Restaurant.jpg');
@@ -43,16 +43,16 @@
     width: 700px;
     height: 400px;
     position: absolute;
-    left: 70px;
+    left: 70px; 
     top: 128px;
   }
   #enjoy {
-    font-size: 40px;
+    font-size: 50px;
     color: #fff6d7;
     position: absolute;
     left: 240px;
     top: 265px;
-    width: 430px;
+    width: 500px;
     font-family: "Playfair Display", serif;
     font-weight: bold;
   }
@@ -67,6 +67,9 @@
     padding: 1px;
     background-color: #ffffff;
   }
+button:hover{
+  cursor:pointer;
+}
   #reservationButton button {
     border-style: solid;
     border-width: 1px;
