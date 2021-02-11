@@ -49,24 +49,20 @@
     padding-left: 70px;
   } */
   #viewWindow {
-    position: absolute;
-    left: 70px;
-    top: 130px;
+    margin-left: 70px;
+    margin-top: 130px;
     width: 700px;
     height: 400px;
     background-image: url("img/Restaurant.jpg");
     background-attachment: fixed;
-    background-size: 700px auto;
-    /* background-position:70px 130px; */
-    background-repeat:no-repeat；
   }
-  /* #viewWindow img {
+  #viewWindow img {
     width: 700px;
     height: 400px;
     position: absolute;
     left: 70px;
     top: 128px;
-  } */
+  }
   #enjoy {
     font-size: 50px;
     color: #fff6d7;
