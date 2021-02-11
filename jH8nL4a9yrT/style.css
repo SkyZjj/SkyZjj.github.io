@@ -19,6 +19,8 @@
     top: 0;
     padding-top: 12px;
   }
+  
+  
   a:link,
   a:visited {
     text-decoration: none;
@@ -38,14 +40,20 @@
     padding-top: 7px;
     margin-left: 11px;
   }
+  #box{
+    position: absolute;
+    left: 0;
+    top: 130px;
+    width: 850px;
+    padding-top: 30px; 
+    padding-left: 70px;
+  }
   #viewWindow {
-    margin-left: 70px;
-    margin-top: 130px;
-    width: 700px;
-    height: 400px;
+    /* width: 700px;
+    height: 400px; */
     background-image: url("img/Restaurant.jpg");
     background-attachment: fixed;
-    background-size: contain;
+    background-size: 700px 400px;
     /* background-repeat:no-repeat； */
   }
   /* #viewWindow img {
