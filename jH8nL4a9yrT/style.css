@@ -49,8 +49,8 @@
     padding-left: 70px;
   }
   #viewWindow {
-    /* width: 700px;
-    height: 400px; */
+    width: 700px;
+    /* height: 400px; */
     background-image: url("img/Restaurant.jpg");
     background-attachment: fixed;
     background-size: 700px 400px;
