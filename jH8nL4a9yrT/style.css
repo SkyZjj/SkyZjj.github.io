@@ -55,7 +55,7 @@
     height: 400px;
     background-image: url("img/Restaurant.jpg");
     background-attachment: fixed;
-    background-position: 80px 45px; 
+    background-position: 80px 10px; 
     background-size: 700px 515px;
     background-repeat: no-repeat;
   }
@@ -70,8 +70,8 @@
     font-size: 50px;
     color: #fff6d7;
     position: absolute;
-    left: 240px;
-    top: 265px;
+    left: 185px;
+    top: 240px;
     width: 540px;
     font-family: "Playfair Display", serif;
     font-weight: bold;
@@ -81,7 +81,7 @@
     border-width: 1px;
     position: absolute;
     left: 520px;
-    top: 360px;
+    top: 330px;
     width: 155px;
     height: 35px;
     padding: 1px;
