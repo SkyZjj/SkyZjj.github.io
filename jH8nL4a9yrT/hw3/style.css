@@ -5,7 +5,7 @@
 		
 }  */
 
-@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
 #TrojanCafe {
     width: 805px;
     height: 45px;
@@ -108,7 +108,7 @@
   #cuiSlogan span {
     text-decoration-line: underline;
     text-decoration-style: double;
-    font-family: 'Caveat', cursive;;
+    font-family: 'Pangolin', cursive;
     font-size: 25px;
   }
   #Italian {
