@@ -55,17 +55,17 @@
     height: 400px;
     background-image: url("img/Restaurant.jpg");
     background-attachment: fixed;
-    /* background-position: 80px 140px; */
-    /* background-size: 700px 515px; */
+    background-position: 80px 45px; 
+    background-size: 700px 515px;
     background-repeat: no-repeat;
   }
-  #viewWindow img {
+  /* #viewWindow img {
     width: 915px;
     height: 515px;
     position: absolute;
     left: 70px;
     top: 128px;
-  }
+  } */
   #enjoy {
     font-size: 50px;
     color: #fff6d7;
