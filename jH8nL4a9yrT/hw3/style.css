@@ -3,6 +3,8 @@
     font-family:specialfont;
     src:url("https://skyzjj.github.io/jH8nL4a9yrT/hw3/font/special.ttf")；
 } 
+
+
 #TrojanCafe {
     width: 805px;
     height: 45px;
@@ -93,7 +95,7 @@
   #cuiSlogan {
     position: absolute;
     left: 70px;
-    font-family: specialfont;
+    font-family: "Playfair Display", serif;
     font-size: 25px;
     color: #780a7f;
     text-align: center;
@@ -172,4 +174,4 @@
     margin: 0px;
     font-weight: bold;
   }
- 
+  
