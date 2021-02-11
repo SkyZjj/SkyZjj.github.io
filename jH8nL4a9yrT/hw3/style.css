@@ -1,9 +1,9 @@
 
-  @font-face {
+  /* @font-face {
     font-family:"specialfont";
     src:url("https://skyzjj.github.io/jH8nL4a9yrT/hw3/font/special.ttf")；
 		
-} 
+}  */
 
 
 #TrojanCafe {
@@ -108,7 +108,7 @@
   #cuiSlogan span {
     text-decoration-line: underline;
     text-decoration-style: double;
-    font-family: "specialfont";
+    font-family: 'Caveat', cursive;;
     font-size: 25px;
   }
   #Italian {
