@@ -39,20 +39,20 @@
     margin-left: 9px;
   }
   #viewWindow {
-    position: absolute;
-    left: 70px;
-    top: 130px;
-    
+    margin-left: 70px;
+    margin-top: 130px;
     width: 700px;
     height: 400px;
     background-image: url("https://skyzjj.github.io/jH8nL4a9yrT/img/Restaurant.jpg");
     background-attachment: fixed;
+    background-repeat: no-repeat;
   }
   #viewWindow img {
     width: 700px;
     height: 400px;
     position: absolute;
-    
+    left: 70px;
+    top: 128px;
   }
   #enjoy {
     font-size: 50px;
