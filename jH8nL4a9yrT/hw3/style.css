@@ -35,9 +35,11 @@
     margin-top: 30px;
     width: 700px;
     height: 400px;
+    background-image:url('https://skyzjj.github.io/jH8nL4a9yrT/hw3/img/Restaurant.jpg');
+    background-attachment: fixed;
   }
   #viewWindow img {
-    background-attachment: fixed;
+    
     width: 700px;
     height: 400px;
     position: absolute;
@@ -137,13 +139,14 @@
     width: 350px;
     height: 270px;
     float:left;
+    padding-top:40px;
   }
   .MenuInfoR{
     width: 350px;
     height: 270px;
     float:right;
     padding-top:40px;
-    padding-right:0px;
+    
     
   }
 .MenuInfoR p{
@@ -169,5 +172,5 @@
   font-size: 15px;
   color:#124BB3;
   margin: 0px;
-
+  font-weight: bold;
 }
