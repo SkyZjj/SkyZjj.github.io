@@ -49,6 +49,9 @@
     padding-left: 70px;
   } */
   #viewWindow {
+    position: absolute;
+    left: 70px;
+    top: 130px;
     width: 700px;
     height: 400px;
     background-image: url("img/Restaurant.jpg");
