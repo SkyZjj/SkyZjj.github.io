@@ -55,6 +55,7 @@
     height: 400px;
     background-image: url("img/Restaurant.jpg");
     background-attachment: fixed;
+    background-position: 70px 130px;
     background-size: 700px;
   }
   /* #viewWindow img {
