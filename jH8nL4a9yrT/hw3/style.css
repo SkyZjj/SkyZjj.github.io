@@ -103,21 +103,23 @@
   .type {
     width: 700px;
     height: 270px;
-    margin-top: 60px;
+    margin-top: 40px;
   }
   .pink {
     border-style: solid;
     border-width: 10px;
     border-color: #ffe4e2;
     float: left;
-    padding: 0;
+    
+    width: 330px;
+    height: 250px;
   }
   .blue {
     border-style: solid;
     border-width: 10px;
     border-color: #aed8e5;
     float: right;
-    padding: 0;
+    
     width: 330px;
     height: 250px;
   }
@@ -136,5 +138,19 @@
     width: 350px;
     height: 270px;
     float:right;
+    padding-top:40px;
+    padding-right:0px;
+    
   }
+.CIntro{
+  width: 270px;
+  font-size: 1px;
+  color:#111111;
   
+}
+.Cname{
+  width: 270px;
+  font-size: 6px;
+  color:#124BB3;
+  
+}
