@@ -43,9 +43,8 @@
     margin-top: 130px;
     width: 700px;
     height: 400px;
-    background-image: url("https://skyzjj.github.io/jH8nL4a9yrT/img/Restaurant.jpg");
+    background-image: url("img/Restaurant.jpg");
     background-attachment: fixed;
-    background-repeat: no-repeat;
   }
   #viewWindow img {
     width: 700px;
@@ -171,7 +170,7 @@
   .Cname {
     width: 285px;
     padding: 0;
-    font-size: 15px;
+    font-size: 16px;
     color: #124bb3;
     margin: 0px;
     font-weight: bold;
